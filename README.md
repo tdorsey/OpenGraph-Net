@@ -9,7 +9,7 @@ Open Graph protocol @ http://ogp.me.
 
 Usage
 =====
-Synchronosly parse a url:
+Synchronously parse a url:
 
     OpenGraph graph = OpenGraph.ParseUrl("http://www.amazon.com/Spaced-Complete-Simon-Pegg/dp/B0019MFY3Q");
 
